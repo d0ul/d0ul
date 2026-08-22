@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 일부 서비스 종료 프로젝트의 GPL 및 AGPL에 따른 소스 코드 요청은 gpl@pcor.me로 할 수 있습니다.
+
 For source code request related to ceased service, by GPL or AGPL license, can be done via gpl@pcor.me.
 <!--
 **d0ul/d0ul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
